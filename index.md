@@ -1,4 +1,4 @@
-## Welcome to The Tea Herbalist Pages
+## The Tea Herbalist Pages
 
 
 
