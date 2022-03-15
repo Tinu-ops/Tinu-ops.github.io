@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 # Tea with benefits
 ## Netflix and tea
-### Teahub
+### All things Teaology
 
 - Bulleted
 - List
